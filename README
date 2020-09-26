@@ -1,0 +1,11 @@
+// passport
+http://www.passportjs.org/
+
+// passport 설치 
+npm i -s passport
+
+// passport-local 설치
+npm i -s passport-local
+
+// connect-flash 설치
+npm i -s connect-flash
